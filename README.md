@@ -28,9 +28,9 @@ Build the Environment
 
 ## Code
 The code can be break in the following parts:
-– Create the Neural Network
-– Importing MNIST dataset -> The MNIST dataset consists of greyscale handwritten digits. Each image is 28x28 pixels.
-– Training our NN ->The neural network learns by iterating multiple times over the available data. The terms learn refers to the adjustment of weights of the network to minimize the loss.
-– Testing the Neural Network -> The number set for testing the network can be found in the website http://lettersandnumbers.org/printable-handwriting-numbers-1-to-50.html
+* Create the Neural Network
+* Importing MNIST dataset -> The MNIST dataset consists of greyscale handwritten digits. Each image is 28x28 pixels.
+* Training our NN ->The neural network learns by iterating multiple times over the available data. The terms learn refers to the adjustment of weights of the network to minimize the loss.
+* Testing the Neural Network -> The number set for testing the network can be found in the website http://lettersandnumbers.org/printable-handwriting-numbers-1-to-50.html
 
 
